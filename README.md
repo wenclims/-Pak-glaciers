@@ -24,7 +24,7 @@ The glacier data used in this application is sourced from the [Randolph Glacier 
 
 ## Acknowledgements
 
-This application was developed by Weather and Climate Service Pakistan (WENCLIMS). It utilizes the Randolph Glacier Inventory (RGI) dataset. We extend our gratitude to the National Snow and Ice Data Center (NSIDC) for providing access to this valuable resource.
+This application was developed by Weather and Climate Service Pakistan (wenclims). It utilizes the Randolph Glacier Inventory (RGI) dataset. We extend our gratitude to the National Snow and Ice Data Center (NSIDC) for providing access to this valuable resource.
 
 ---
 
